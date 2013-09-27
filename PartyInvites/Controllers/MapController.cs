@@ -13,7 +13,16 @@ namespace PartyInvites.Controllers
 
         public ActionResult Index()
         {
+            return View("index");
+        }
+        public  ActionResult InfoMap()
+        {
             return View("infomap");
+        }
+
+        public ActionResult MultiInfo()
+        {
+            return View("MultiInfo");
         }
 
     }
