@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using PartyInvites.Models;
+using GoogleMaps.Models;
 
-namespace PartyInvites.Controllers
+namespace GoogleMaps.Controllers
 {
     public class HomeController : Controller
     {

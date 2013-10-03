@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{5347FDC4-84FF-4D09-84A9-8CB785AD359C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMaps", "GoogleMaps\GoogleMaps.csproj", "{5347FDC4-84FF-4D09-84A9-8CB785AD359C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

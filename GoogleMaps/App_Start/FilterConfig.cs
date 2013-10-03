@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace PartyInvites
+namespace GoogleMaps
 {
     public class FilterConfig
     {
